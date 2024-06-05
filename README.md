@@ -46,12 +46,17 @@ Recomendador de artistas emergentes utilizando técnicas de clustering, basado e
 Sistema de recomendaciones personalizado que permita a cualquier profesional de la música introducir el nombre de su artista y recibir recomendaciones adaptadas a sus datos específicos.
 Enfatizar estrategias de promoción en TikTok, posicionamiento en playlists de Spotify y colaboraciones con artistas similares como parte de las recomendaciones para artistas emergentes.
 
+ ----
+ 
 Este repositorio constituye un recurso valioso para profesionales de la industria musical interesados en impulsar la carrera de artistas emergentes en el género urbano español, ofreciendo análisis detallado, herramientas prácticas y recomendaciones fundamentadas en datos.
 
 ### Archivos del Repositorio:
 limpieza.ipynb: Notebook de Jupyter que contiene el código utilizado para la limpieza y preprocesamiento de los datos.
+
 analisis.ipynb: Notebook de Jupyter que contiene el análisis exploratorio de datos realizado en el proyecto así como el sistema de recomendaciones implementado.
+
 predicciones.ipynb: Notebook de Jupyter que contiene el código utilizado para generar las predicciones de tendencias.
+
 proyecto_final.py: Archivo Python que contiene el código para la aplicación web desarrollada con Streamlit.
 
 ## Autoría del proyecto
