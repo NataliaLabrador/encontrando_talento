@@ -1,0 +1,11 @@
+Artista,name,duration_ms,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Kenya Racaile,Rivotril,160382,0.665,0.745,0,-5.045,0,0.0372,0.648,0.0,0.12,0.44,152.05
+Kenya Racaile,Tu Me Llamas Mami,169599,0.723,0.625,1,-9.828,0,0.279,0.26,0.00198,0.11,0.764,177.929
+Kenya Racaile,Idgaf,190710,0.735,0.703,0,-6.797,1,0.0507,0.305,0.0,0.0733,0.503,145.917
+Kenya Racaile,mY NeNe,169565,0.863,0.544,10,-7.473,0,0.199,0.0228,0.000368,0.0989,0.653,91.999
+Kenya Racaile,Azabache,194042,0.796,0.52,9,-13.079,0,0.129,0.675,0.00642,0.055,0.636,94.029
+Kenya Racaile,Nadie la Frontea,212787,0.776,0.362,11,-13.204,0,0.121,0.385,1.14e-05,0.0814,0.765,96.974
+Kenya Racaile,Puppy,207154,0.611,0.573,4,-9.106,0,0.427,0.0292,0.0,0.493,0.513,82.891
+Kenya Racaile,Spanish Baddie Trilla,141326,0.809,0.424,8,-10.407,1,0.138,0.219,0.0,0.164,0.583,102.085
+Kenya Racaile,Baby Como Estas,184468,0.894,0.627,8,-6.257,0,0.0993,0.531,0.00185,0.0737,0.621,94.023
+Kenya Racaile,Artico,144277,0.836,0.654,1,-6.752,1,0.177,0.455,4.05e-05,0.0995,0.482,86.506
